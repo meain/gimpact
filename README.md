@@ -10,4 +10,4 @@ python gimpact.py authorstat --folder=<git-folder>
 
 ## Screenshot
 
-![Screenshot](http://i.imgur.com/BbtdKik.png)
+![Screenshot](http://i.imgur.com/7eXwIIJ.png)
