@@ -5,7 +5,7 @@ A simple module for git stats. Kinda crappy, but yeah.
 ## Usage
 
 ```sh
-python gimpact.py authorstat --folder=<git-folder>
+python gimpact.py authorstat --folder=<project-folder>
 ```
 
 ## Screenshot
